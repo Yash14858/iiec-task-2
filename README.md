@@ -22,14 +22,13 @@ In this task we can give voice commands to launched or stop Operating System in 
 
 ![](/Images/start%20docker.png)
 
-For example you Enter C7 as a name of your O.S and select centos:7 image file and submit it.
+=> For example you Enter C7 as a name of your O.S and select centos:7 image file and submit it.
 
 ![](/Images/input%201.png)
 
 Than we get output as shown below:
 
-
-![](/Images/C7%20lauched.png)
+![](/Images/C7%20launched.png)
 
 => And if you give a command to stop or quit docker it will take you to the Web Application where you can stop the running operating system in your  RHEL 8 system.
 
