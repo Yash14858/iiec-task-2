@@ -32,6 +32,12 @@ Than we get output as shown below:
 
 It shows that centos:7 Operating System is launched in docker with C7 as a username.
 
+=> And if you go to your linux (RHEL8) system and give "docker ps" command in terminal you can check how many Operating System is running in Docker.
+
+![](/Images/output.PNG)
+
+As you can see in above image centos:7 with username C7 is running in Docker.
+
 => And if you give a command to stop or quit docker it will take you to the Web Application where you can stop the running operating system in Docker.
 
 ![](/Images/stop.png)
@@ -45,9 +51,3 @@ It shows that centos:7 Operating System is launched in docker with C7 as a usern
 ![](/Images/C7%20stopped.png)
 
 It shows that the Operating System with a username of C7 is successfully stopped. 
-
-=> And if you go to your linux (RHEL8) system and give "docker ps" command in terminal you can check how many Operating System is running in Docker.
-
-![](/Images/output.PNG)
-
-As you can see in above image centos:7 with username C7 is running in Docker.
