@@ -18,10 +18,10 @@ In this task we can give voice commands to launched or stop Operating System in 
 
 ![](/Images/start.png)
 
-![](/Images/start_docker.png)
+![](/Images/start%20docker.png)
 
 => And if you give a command to stop or quit docker it will take you to the Web Application where you can stop the running operating system in your  RHEL 8 system.
 
 ![](/Images/stop.png)
 
-![](/Images/stop_docker.png)
+![](/Images/stop%20docker.png)
