@@ -9,7 +9,11 @@ In this task we can give voice commands to launched or stop Operating System in 
     for example :- In RHEL 8 Operating System we can open other operating systems like ubuntu:14.04 and centos:7 by using docker.
 
 # How it works?
+
 => First of all we have to run the python menu on IDLE, after runing it shows a Start button.
+
 => Now click on the Start button then menu ask for a voice command.
+
 => If you give a command to start or open docker it will take you to the Web Application where you can launched any operating system whoes image files availabel in select option.
+
 => And if you give a command to stop or quit docker it will take you to the Web Application where you can stop the running operating system in your  RHEL 8 system.
