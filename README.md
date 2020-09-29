@@ -12,6 +12,8 @@ In this task we can give voice commands to launched or stop Operating System in 
 
 => First of all we have to run the python menu on IDLE, it will ask you for your voice command.
 
+![](/image/saying.png/)
+
 => If you give a command to start or open docker it will take you to the Web Application where you can launched any operating system whoes image files availabel in select option.
 
 => And if you give a command to stop or quit docker it will take you to the Web Application where you can stop the running operating system in your  RHEL 8 system.
