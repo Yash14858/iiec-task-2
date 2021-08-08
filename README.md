@@ -1,4 +1,4 @@
-# iiec-task-2
+# Docker(Container Technology)
 The 2nd task given by IIEC-RISE to create a menu which can run Docker commands to launched and stop any Operating System.
 
 # About the task
